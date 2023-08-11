@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/mapbox/streets-v11',
+    style: 'mapbox://styles/dinarsuryan/clkl8pcbq00hg01pcgkkebva1',
     accessToken: 'pk.eyJ1IjoiZGluYXJzdXJ5YW4iLCJhIjoiY2xobjBmOTVoMWhrZTNucXBkdTl2OXkxdyJ9.mplYYy_H8T0wmjlcJOGK7Q',
     showMarkers: false,
     markerColor: '#3FB1CE',

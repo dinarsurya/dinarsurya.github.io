@@ -1,0 +1,165 @@
+/* Global */
+p {
+   margin-bottom: 0;
+}
+
+a {
+   color: unset;
+   text-decoration: none;
+}
+
+a:hover {
+   color: unset
+}
+
+body {
+   font-size: 14px;
+}
+
+.navbar-header {
+   position: fixed;
+   top: 0;
+   left: 0;
+   z-index: 10000;
+   background-color: white;
+   color: unset;
+   box-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
+}
+
+.page {
+   height: 100vh;
+}
+
+.page .sidebar {
+   width: 400px;
+   position: relative;
+}
+
+.page .content {
+   flex: 1;
+}
+
+/* map */
+body {
+   margin: 0;
+   padding: 0;
+   font-family: sans-serif;
+}
+
+a,
+a:hover,
+a:visited {
+   color: #0071bc;
+}
+
+#map {
+   top: 0;
+   height: 100vh;
+   width: calc(100vw - 400px);
+   position: fixed;
+}
+
+#mapInset {
+   bottom: 50px;
+   right: 30px;
+   height: 180px;
+   width: 250px;
+   max-width: 100%;
+   position: fixed;
+   z-index: 1;
+   opacity: 1;
+   transition: opacity 0.5s ease-in-out;
+   pointer-events: none;
+}
+
+#mapInset .mapboxgl-ctrl-bottom-left {
+   display: none;
+}
+
+@media (max-width: 500px) {
+   #mapInset {
+      display: none;
+   }
+}
+
+#header {
+   margin: auto;
+   width: 100%;
+   position: relative;
+   z-index: 5;
+   padding: 30px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+   margin-bottom: unset;
+}
+
+#features {
+   display: flex;
+   flex-direction: column;
+}
+
+#story {
+   height: calc(100vh - 64px);
+   overflow-y: scroll;
+}
+
+.header {
+   width: 100%;
+   background-color: #1759ba;
+   padding: 20px;
+   color: white;
+}
+
+.title-section {
+   margin-bottom: 20px
+}
+
+.step {
+   opacity: 0.25;
+   padding: 20px 20px 10px;
+   cursor: pointer;
+   border-bottom: 1px solid #e0e0e0;
+   background-color: #dddddd;
+}
+
+.step:last-child {
+   border-bottom: unset
+}
+
+.step p {
+   margin-bottom: 10px;
+}
+
+.step.active {
+   opacity: 1;
+   background-color: unset;
+}
+
+.step img {
+   width: 100%;
+   margin: 10px 0 15px;
+}
+
+@media (max-width: 750px) {
+
+   .centered,
+   .lefty,
+   .righty,
+   .fully {
+      width: 90vw;
+      margin: 0 auto;
+   }
+}
+
+/* Fix issue on mobile browser where scroll breaks  */
+.mapboxgl-canvas-container.mapboxgl-touch-zoom-rotate.mapboxgl-touch-drag-pan,
+.mapboxgl-canvas-container.mapboxgl-touch-zoom-rotate.mapboxgl-touch-drag-pan .mapboxgl-canvas {
+   touch-action: unset;
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kalasan_FIKS_TENAN
+* source:	https://sketchfab.com/3d-models/kalasan-fiks-tenan-4636e480eacd4762a509d2077c2e3806
+* author:	dinarsurya (https://sketchfab.com/dinarsurya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kalasan_FIKS_TENAN" (https://sketchfab.com/3d-models/kalasan-fiks-tenan-4636e480eacd4762a509d2077c2e3806) by dinarsurya (https://sketchfab.com/dinarsurya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

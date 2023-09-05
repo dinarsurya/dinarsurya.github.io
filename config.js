@@ -189,7 +189,7 @@ var config = {
                     Candi Sambisari memiliki keunikan pada bagian interior candi utama yaitu terdapat yoni siraman besar yang menghadap ke utara dengan hiasan berbentuk naga di bawahnya. Di atas ketiga candi tersebut hanya terdapat alas dan pagar, tanpa rangka atau atap. Candi-candi pembantu bagian tengah dan utara memiliki alas padmasan berbentuk bujur sangkar, sedangkan candi perwara bagian selatan tidak. Seluruh areal kompleks candi Sambisar dikelilingi pagar batu putih berukuran 50 x 48 meter. Candi Sambisari memiliki focal point yang menarik tepat di sebelah selatan tangga masuk. Candi ini ditemukan pada tahun 1966 oleh seorang petani bernama Arjo Wiyono saat mengolah tanah pertaniannya. Penggalian arkeologi dilakukan pada tahun 1975, di mana terungkap bahwa candi Sambisar terdiri dari satu candi induk dan tiga candi pembantu. Candi-candi ini dalam keadaan runtuh dan berada kurang lebih 6,5 meter di bawah tanah.
                 </p>
             `,
-            model: 'https://dinarsurya.github.io/3D/Sambisari/Sambisari.gltf',
+            model: 'https://dinarsurya.github.io/3D/candi_sambisariii/Candi_Sambisarii.gltf',
             scale: 5,
             locatioObj: [110.44605, -7.76293],
             location: {

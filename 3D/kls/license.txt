@@ -1,0 +1,11 @@
+Model Information:
+* title:	KLS
+* source:	https://sketchfab.com/3d-models/kls-6979dfff930147d3aeb3ec30f946c7b0
+* author:	dinarsurya (https://sketchfab.com/dinarsurya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "KLS" (https://sketchfab.com/3d-models/kls-6979dfff930147d3aeb3ec30f946c7b0) by dinarsurya (https://sketchfab.com/dinarsurya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
